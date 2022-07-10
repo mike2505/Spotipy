@@ -5,7 +5,7 @@ __NO PREMIUM REQUIRED!__<br>
 
 # API
 
-At first you need to get API for sptify from [RapidAPI](https://rapidapi.com/DataFanatic/api/spotify-scraper/)
+At first you need to get API for spotify from [RapidAPI](https://rapidapi.com/DataFanatic/api/spotify-scraper/)
 Paste it in search.py and track.py
 ![API](_img/2022-07-10_17-40_1.png)
 ![API](_img/2022-07-10_17-40.png)
