@@ -1,5 +1,5 @@
-from search import Search
-from track import Track
+from core.search import Search
+from core.track import Track
 import os
 import time
 import vlc
