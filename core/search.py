@@ -4,7 +4,7 @@ import json
 class Search():
     def __init__(self, query):
         self.headers = {
-	        "X-RapidAPI-Key": "744abc8a30msh83cdcbcce129559p1c2752jsn420d7c779154",
+	        "X-RapidAPI-Key": "API",
 	        "X-RapidAPI-Host": "spotify-scraper.p.rapidapi.com"
         }
         self.url = "https://spotify-scraper.p.rapidapi.com/v1/search"
