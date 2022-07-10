@@ -5,7 +5,7 @@ class Track():
         self.querystring = {"track":f"{furl}"}
 
         self.headers = {
-            "X-RapidAPI-Key": "744abc8a30msh83cdcbcce129559p1c2752jsn420d7c779154",
+            "X-RapidAPI-Key": "API",
             "X-RapidAPI-Host": "spotify-scraper.p.rapidapi.com"
         }
 
